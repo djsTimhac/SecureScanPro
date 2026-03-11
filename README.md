@@ -51,8 +51,9 @@ Ein leistungsstarker **Malware & Security Scanner** mit Multi-Upload-Support fü
 
 ```bash
 # Repository klonen
-git clone <repository-url>
+git clone
 cd securescan-pro
+unzip SecureScanPro.zip
 
 # Abhängigkeiten installieren
 bun install
