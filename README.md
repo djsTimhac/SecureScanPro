@@ -51,7 +51,7 @@ Ein leistungsstarker **Malware & Security Scanner** mit Multi-Upload-Support fü
 
 ```bash
 # Repository klonen
-git clone
+git clone https://github.com/djsTimhac/SecureScanPro.git
 cd securescan-pro
 unzip SecureScanPro.zip
 
